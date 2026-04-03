@@ -36,5 +36,10 @@ make
 Lancement de l’interface Python :
 python gestiontemp.py
 
+# Résultats
+- Stabilisation de la température avec précision via régulation PID
+- Communication USB fiable entre capteur et système
+- Validation du système en conditions réelles
+
 # Contexte
 Projet académique réalisé dans le cadre de la formation ISEN.
