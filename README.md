@@ -1,7 +1,7 @@
 # Projet_A3_Informatique
-Projet réalisé à l'ISEN en 2024.
+Projet réalisé à l'ISEN en 2026.
 
-## Description
+# Description
 Développement en C d'un algorithme de régulation thermique (PID et Tout-Ou-Rien) pour contrôler la température d'une pièce.
 
 Le projet comprend :
@@ -10,8 +10,8 @@ Le projet comprend :
 - une architecture modulaire validée en simulation puis sur maquette physique,
 - une interface de visualisation en Python,
 - un mécanisme de synchronisation entre le code C et l'IHM Python.
-
-## Technologies
+  
+# Technologies
 - C
 - Python
 - STM32
