@@ -1,3 +1,4 @@
 .verrouData
 .verrouConsigne
 *.o
+trace.txt
