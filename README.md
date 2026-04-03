@@ -23,7 +23,8 @@ Le projet comprend :
 ### Dépendances
 - FTDI D2XX (ftd2xx) pour la communication USB
 - La bibliothèque `ftd2xx.lib` est requise pour la compilation
-⚠️ Selon votre environnement, il peut être nécessaire d'installer les drivers FTDI correspondants.
+- 
+  NB : Selon votre environnement, il peut être nécessaire d'installer les drivers FTDI correspondants.
 
 ## Contexte
 Projet académique réalisé dans le cadre de la formation ISEN.
