@@ -8,8 +8,8 @@ Le projet comprend :
 - la communication USB avec une carte STM32 Nucleo,
 - l'extraction et le traitement bas niveau de trames issues d'un capteur,
 - une architecture modulaire validée en simulation puis sur maquette physique,
-- une interface de visualisation en Python,
 - un mécanisme de synchronisation entre le code C et l'IHM Python.
+- une interface de visualisation en Python,
   
 # Technologies
 - C
