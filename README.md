@@ -20,11 +20,19 @@ Le projet comprend :
 - Bitwise
 - Régulation PID
 
-### Dépendances
+# Dépendances
 - FTDI D2XX (ftd2xx) pour la communication USB
 - La bibliothèque `ftd2xx.lib` est requise pour la compilation
-- 
+  
   NB : Selon votre environnement, il peut être nécessaire d'installer les drivers FTDI correspondants.
 
-## Contexte
+# Exécution
+Compilation avec Makefile :
+make
+./programme
+
+Lancement de l’interface Python :
+python gestiontemp.py
+
+# Contexte
 Projet académique réalisé dans le cadre de la formation ISEN.
