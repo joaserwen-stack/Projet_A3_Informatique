@@ -29,6 +29,7 @@ Le projet comprend :
 # Exécution
 Compilation avec Makefile :
 make
+
 ./programme
 
 Lancement de l’interface Python :
