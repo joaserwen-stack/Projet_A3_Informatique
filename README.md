@@ -1,4 +1,4 @@
-# Projet_A3_Informatique
+# Conception d'un Système de Régulation Thermique
 Projet réalisé à l'ISEN en 2026.
 
 # Description
